@@ -8,7 +8,6 @@ public class Config {
 	public static String SERVER_NAME = "Oberon";
 	public static final String WELCOME_MESSAGE = "Welcome to Oberon.";
 	public static final String FORUMS = "oberonrsps.com";
-	public static final String TEST = "Deadloch is gay";
 	
 	public static final int CLIENT_VERSION = 999999;
 	
